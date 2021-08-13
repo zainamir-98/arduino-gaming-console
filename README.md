@@ -1,6 +1,6 @@
 # Portable Arduino Gaming Console
 
-![Alt text](pic.jpg?raw=true "Snake game")
+![Alt text](pic_snake.jpg?raw=true "Snake game")
 
 Features 3 games made from scratch:
 *  Dino game
