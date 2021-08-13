@@ -1,6 +1,8 @@
 # Portable Arduino Gaming Console
 
+<p align="center">
 <img src="https://github.com/zainamir-98/portable-arduino-gaming-console/blob/main/pic_snake.jpg" width="600">
+</p>
 
 Features 3 games made from scratch:
 *  Dino game
