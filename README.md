@@ -2,7 +2,7 @@
 
 <br /><br /><br />
 <p align="center">
-  <img src="https://github.com/zainamir-98/portable-arduino-gaming-console/blob/main/pic_snake.jpg" width="600"><br />
+  <img src="https://github.com/zainamir-98/portable-arduino-gaming-console/blob/main/pic_snake.jpg" width="600"><br /><br />
   Snake game
 </p>
 <br /><br /><br />
